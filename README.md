@@ -1,5 +1,12 @@
 # ☁️ Weatherly — Real-time Weather App
 
+🌐 **Live Demo:** https://weatherly-virid.vercel.app
+📦 **Repository:** https://github.com/David-dev576/weatherly
+
+---
+
+# ☁️ Weatherly — Real-time Weather App
+
 A modern, responsive weather application built with **Vue.js (Options API)** and **JavaScript**, powered by the **Open-Meteo API** and the **Browser Geolocation API**.
 
 ![Weatherly](https://img.shields.io/badge/Vue.js-3.x-42b883?style=for-the-badge&logo=vue.js)
